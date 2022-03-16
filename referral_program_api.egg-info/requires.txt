@@ -1,0 +1,11 @@
+psycopg2-binary==2.9.1
+sqlalchemy==1.4.20
+alembic==1.6.5
+marshmallow==3.9.1
+requests==2.25.0
+pycryptodome==3.10.1
+gunicorn==20.1.0
+flask==2.0.1
+pyjwt==1.7.1
+alchemy-mock==0.4.3
+faker==8.16.0
