@@ -1,15 +1,15 @@
-# Program Referral API
+### System Referral RESTful API
 
-# Before test API -> Deploy on Docker
+### deploy on docker
 
-run : docker-compose up --build
+    run : docker-compose up --build
 
-# List API => Testing POSTMAN
+### list api => testing POSTMAN
 
-#### POST ==> http://localhost:5000/login
-#### POST ==> http://localhost:5000/signup
-#### GET ==> http://localhost:5000/referral_code
-#### GET ==> http://localhost:5000/statement
+    POST ==> http://localhost:5000/login
+    POST ==> http://localhost:5000/signup
+    GET ==> http://localhost:5000/referral_code
+    GET ==> http://localhost:5000/statement
 
 <!-- -->
 ### -----------------------------------------------
